@@ -23,10 +23,11 @@ var counter = (function(){
 })(); //IiFE Immediately Invoked FUNCTION EXPRESSION
 
 
-console.log(counter.count);
+//console.log(counter.count);
 //console.log(counter.value);
-console.log(counter.increment);
-console.log(counter.increment);
-console.log(counter.increment);
+//console.log(counter.increment);
+//console.log(counter.increment);
+//console.log(counter.increment);
+
 
 //Global Namespace why we dont want to define a variable in the GLobal namespace.
